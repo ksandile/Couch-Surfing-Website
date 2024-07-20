@@ -1,20 +1,50 @@
-# Getting Started
-Install the dependencies and run the project in watch mode
-```
-npm install
-npm run build # or watch to rebuild on change
-open index.html
-```
-Note that using Webpack is obselete and this archive has been provided
-for compatibility reasons. Prefer using Vite, check it at https://vitejs.dev
-## About Scrimba
+# Project Goal
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Objective: 
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+Develop a Couch Surfing website using TypeScript, following along with the provided "Learn TypeScript Tutorial." The website aims to connect travelers with hosts willing to offer accommodation, creating a community-driven platform for couch surfing.
 
-Happy Coding!
+## Features:
+
+### User Registration and Authentication:
+
+Implement secure user registration and login functionality.
+Allow users to create profiles with personal information and preferences.
+
+### Host Listings:
+
+Enable hosts to create and manage listings for available accommodation.
+Include detailed descriptions, photos, availability, and location information for each listing.
+
+### Search and Filtering:
+
+Provide search functionality for travelers to find suitable hosts based on location, dates, and preferences.
+Implement filtering options to refine search results.
+
+### Booking System: 
+
+Allow travelers to request bookings with hosts.
+Implement a messaging system for communication between travelers and hosts.
+
+### Review and Rating System:
+
+Enable users to leave reviews and ratings for hosts and travelers.
+Display ratings and reviews on user profiles and listings.
+
+### User Interface:
+
+Create a clean, intuitive, and responsive design to ensure a positive user experience across various devices.
+
+### Real-Time Updates:
+
+Implement real-time updates for messages and booking statuses to keep users informed.
+
+### Security:
+
+Ensure the implementation of security best practices to protect user data and maintain privacy.
+
+## Learning Outcomes:
+
+Gain hands-on experience with TypeScript by building a real-world application.
+Understand and apply TypeScript's features, such as type annotations, interfaces, and classes.
+Learn best practices for building scalable and maintainable web applications using TypeScript.
